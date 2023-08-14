@@ -20,4 +20,4 @@ now , you can see the output here:
 ![output-](https://github.com/NoufSaleh20/third-task--dht22/assets/129336340/f6e71372-2954-4751-9edb-fad94e55df87)
 
 
- ......... 
+
